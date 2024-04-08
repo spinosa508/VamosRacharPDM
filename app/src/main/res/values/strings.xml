@@ -1,3 +1,3 @@
 <resources>
-    <string name="app_name">Constraint Layout</string>
+    <string name="app_name" translatable="false">Vamos Rachar?</string>
 </resources>
