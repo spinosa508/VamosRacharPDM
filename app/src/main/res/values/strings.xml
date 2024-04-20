@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name" translatable="false">Vamos Rachar?</string>
+    <string name="app_name">Vamos Rachar?</string>
+    <string name="titulo">Vamos Rachar?</string>
+    <string name="btFalar">Falar</string>
+    <string name="inputValor">Digite o valor da conta</string>
+    <string name="inputPessoas">Digite o número de pessoas</string>
+    <string name="valorfinalHolder">R$: 0,00</string>
 </resources>

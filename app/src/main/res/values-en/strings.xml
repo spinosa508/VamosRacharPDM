@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Split the bill!</string>
+    <string name="titulo">Split the bill!</string>
+    <string name="btFalar">Speak</string>
+    <string name="inputValor">Enter the bill amount</string>
+    <string name="inputPessoas">Enter the amount of people</string>
+    <string name="valorfinalHolder">US$: 0,00</string>
+</resources>
